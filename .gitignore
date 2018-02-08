@@ -5,3 +5,6 @@ obj/
 *.user
 *.suo
 libraries/
+/documentation/~$1 Redirect Module.docx
+/source/.vs/RedirectModule/v15/Server/sqlite3
+/.vs
